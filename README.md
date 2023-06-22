@@ -51,5 +51,5 @@
 
 #### Delete User
 ```http
-  GET /api/users/:id
+  DELETE /api/users/:id
 ```
